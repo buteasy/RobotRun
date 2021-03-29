@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gjt+zpcir0h0ae3tcPpSBGye9UOm9/ER+YiLo0hsqLP52xnlUXUt4mgCmimsq9Y48qju5dRpkyVP1oE2Za2MpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Qt\\eva\\.Net\\beadandok\\bead3\\RobotRun\\RobotRun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eszte\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.9\\microsoft.netcore.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\eszte\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.9\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\eszte\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.9\\microsoft.aspnetcore.app.runtime.win-x86.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

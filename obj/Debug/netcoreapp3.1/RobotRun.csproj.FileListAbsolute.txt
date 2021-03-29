@@ -1,0 +1,16 @@
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\bin\Debug\netcoreapp3.1\RobotRun.exe
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\bin\Debug\netcoreapp3.1\RobotRun.deps.json
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\bin\Debug\netcoreapp3.1\RobotRun.runtimeconfig.json
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\bin\Debug\netcoreapp3.1\RobotRun.runtimeconfig.dev.json
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\bin\Debug\netcoreapp3.1\RobotRun.dll
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\bin\Debug\netcoreapp3.1\RobotRun.pdb
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\obj\Debug\netcoreapp3.1\RobotRun.csprojAssemblyReference.cache
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\obj\Debug\netcoreapp3.1\RobotRun.Properties.Resources.resources
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\obj\Debug\netcoreapp3.1\RobotRun.View.GameForm.resources
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\obj\Debug\netcoreapp3.1\RobotRun.csproj.GenerateResource.cache
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\obj\Debug\netcoreapp3.1\RobotRun.AssemblyInfoInputs.cache
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\obj\Debug\netcoreapp3.1\RobotRun.AssemblyInfo.cs
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\obj\Debug\netcoreapp3.1\RobotRun.csproj.CoreCompileInputs.cache
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\obj\Debug\netcoreapp3.1\RobotRun.dll
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\obj\Debug\netcoreapp3.1\RobotRun.pdb
+C:\Qt\eva\.Net\beadandok\bead3\RobotRun\obj\Debug\netcoreapp3.1\RobotRun.genruntimeconfig.cache
